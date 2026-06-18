@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.local
+.next/
+dist/
+build/
+coverage/
+.vercel/
+.vscode/
+*.log
+bin/
+obj/
+.vs/
